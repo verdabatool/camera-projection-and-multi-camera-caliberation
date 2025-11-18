@@ -66,3 +66,4 @@ Automated Calculation: The points are saved to JSON and processed to output the 
 
 Visualization: Generates an annotated image showing the measurement lines and calculated height.
 
+
